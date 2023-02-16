@@ -27,6 +27,6 @@ Espero seguir creciendo esta lista dentro de pronto :).
 Tecnologias de interes:
 - [Svelte](https://svelte.dev/)
 - [Keras](https://keras.io/)
-- [Ionic]([https://breakdance.github.io/breakdance/](https://ionicframework.com/]) 
+- [Ionic](https://ionicframework.com/) 
 
 ✨Adios✨ 
