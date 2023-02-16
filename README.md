@@ -21,12 +21,12 @@ Lenguajes de programacion en los que tengo experiencia:
 - Python
 - PHP
 - C#
-- 
+
 Espero seguir creciendo esta lista dentro de pronto :).
 
 Tecnologias de interes:
 - [Svelte](https://svelte.dev/)
 - [Keras](https://keras.io/)
-- [Ionic]([https://breakdance.github.io/breakdance/](https://ionicframework.com/)) 
+- [Ionic]([https://breakdance.github.io/breakdance/](https://ionicframework.com/]) 
 
 ✨Adios✨ 
