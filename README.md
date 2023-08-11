@@ -5,9 +5,10 @@ Soy un estudiante de Ing. Sistemas Computacionales con una sed insaciable de con
 
 En mi arsenal lingüístico cuento con:
 
--Español (mi lengua materna)
--Inglés (lo manejo a un nivel intermedio)
--Chino (estoy dando mis primeros pasos en este fascinante idioma)
+- Español (mi lengua materna)
+- Inglés (lo manejo a un nivel intermedio)
+- Chino (estoy dando mis primeros pasos en este fascinante idioma)
+  
 En lo que respecta a los lenguajes de programación, ya tengo un dominio de:
 
 - Python
